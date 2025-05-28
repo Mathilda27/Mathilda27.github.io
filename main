@@ -4,35 +4,5 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Medición económica departamentos Colombia</title>
-  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-</head>
-<body class="bg-gray-100 text-gray-800">
-  <header class="bg-gray-200 shadow p-6">
-    <h1 class="text-3xl text-center font-bold">Medición económica departamentos Colombia</h1>
-  </header>
-
-  <main class="p-6 space-y-10 max-w-6xl mx-auto">
-    <!-- GIF 1: Contribución al PIB -->
-    <section class="bg-white p-6 rounded-lg shadow-md">
-      <h2 class="text-xl font-semibold mb-4">Contribución al PIB (GIF)</h2>
-      <img src="contribucion_pib.gif" alt="Contribución al PIB por Departamento" class="rounded w-full mx-auto">
-    </section>
-
-    <!-- GIF 2: Mapa de Calor de Desempleo -->
-    <section class="bg-white p-6 rounded-lg shadow-md">
-      <h2 class="text-xl font-semibold mb-4">Mapa de calor de desempleo (GIF)</h2>
-      <img src="mapacalordesempleo.gif" alt="Tasa de Desempleo por Departamento" class="rounded w-full mx-auto">
-    </section>
-
-    <!-- Imagen del gráfico de Informalidad -->
-    <section class="bg-white p-6 rounded-lg shadow-md">
-      <h2 class="text-xl font-semibold mb-4">Informalidad por Departamento (2021–2024)</h2>
-      <img src="grafico_informalidad.png" alt="Gráfico de Informalidad" class="rounded w-full mx-auto">
-    </section>
-  </main>
-
-  <footer class="text-center text-sm text-gray-500 p-4">
-    &copy; 2025 - Dashboard de análisis económico por departamentos en Colombia
-  </footer>
 </body>
 </html>
